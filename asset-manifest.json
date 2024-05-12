@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/My-Web-Design/static/css/main.51b228fa.css",
+    "main.js": "/My-Web-Design/static/js/main.db3fde3f.js",
+    "static/js/453.4458ebe8.chunk.js": "/My-Web-Design/static/js/453.4458ebe8.chunk.js",
+    "static/media/ai.png": "/My-Web-Design/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/My-Web-Design/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/My-Web-Design/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/My-Web-Design/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/My-Web-Design/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/My-Web-Design/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/My-Web-Design/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/My-Web-Design/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/My-Web-Design/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/My-Web-Design/index.html",
+    "main.51b228fa.css.map": "/My-Web-Design/static/css/main.51b228fa.css.map",
+    "main.db3fde3f.js.map": "/My-Web-Design/static/js/main.db3fde3f.js.map",
+    "453.4458ebe8.chunk.js.map": "/My-Web-Design/static/js/453.4458ebe8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51b228fa.css",
+    "static/js/main.db3fde3f.js"
+  ]
+}
